@@ -1,4 +1,4 @@
-cklist# Basic identity and cookie for React frontend and REST Api backend
+Basic identity and cookie for React frontend and REST Api backend
 
 Checklist:
 - [ ] Make sure your Database Context inherits from IdentityDbContext<User>
